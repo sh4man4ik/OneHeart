@@ -1,0 +1,9 @@
+[
+{
+  "modid": "oneheart",
+  "name": "OneHeart",
+  "description": "Minecraft mod that sets the player’s lives to just one",
+  "version": "1.0",
+  "authorList": ["sh4man"]
+}
+]
