@@ -1,8 +1,8 @@
-# OneHeart
-
-![Screenshot](Screenshot.png)
+![Title](Title.png)
 
 # What is it?
+
+![Screenshot](Screenshot.png)
 
 A simple Minecraft mod that sets player's lives to just one, making survival a lot more hardcore
 
